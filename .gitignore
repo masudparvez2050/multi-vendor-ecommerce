@@ -2,5 +2,5 @@
 /backend/node_modules
 /client/node_modules
 /backend/.env
-config.bat
 node_modules
+.env*
